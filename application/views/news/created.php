@@ -1,0 +1,1 @@
+News were successfully added!<br><br><br><a href = "/news/"> All News </a>

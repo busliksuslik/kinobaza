@@ -1,0 +1,1 @@
+Post was successfully added!<br><br><br><a href = "/posts/"> All Posts </a>
